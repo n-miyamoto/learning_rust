@@ -4,6 +4,6 @@ fn main(){
     println!("Hello World");
 
     // print format.
-    println!("Todai is {month}/{day}",
+    println!("Today is {month}/{day}",
         month=4.to_string(), day=22.to_string() );
 }
